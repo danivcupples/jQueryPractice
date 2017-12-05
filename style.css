@@ -1,0 +1,33 @@
+body {
+  background: black;
+  color: white;
+  margin: 40px auto;
+  padding: 10px 60px;
+  font-family: sans-serif;
+}
+
+h1 {
+  word-spacing: 45px;
+  letter-spacing: 3px;
+  margin: 20px 10px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.square {
+  background: red;
+}
+
+.blue {
+  background: red;
+}
+
+#circle {
+  background: green;
+  border-radius: 50%;
+}
